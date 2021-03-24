@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋, I'm Liam Stevens</h2>
-<h5 align="left">I am a final year Software Engineering student at The University of Adelaide.</h5>
+<p align="left">
+  I am a final year Software Engineering student at The University of Adelaide.
+</p>
 
 <h3 align="left">Tools & Technologies:</h3>
 <p align="center">
