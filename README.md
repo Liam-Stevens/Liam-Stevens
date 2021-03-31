@@ -26,12 +26,12 @@
 </p>
 
 <p>
-  <a href="https://github.com/Liam-Stevens/github-readme-stats">
+  <a href="https://github.com/Liam-Stevens/">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Liam-Stevens&count_private=true&hide_title=true&hide_border=true&show_icons=true&theme=tokyonight"/>
   </a>
 </p>
 <p>
-  <a href="https://github.com/Liam-Stevens/github-readme-stats">
+  <a href="https://github.com/Liam-Stevens/">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liam-Stevens&count_private=true&langs_count=8&hide_border=true&layout=compact&theme=tokyonight" />
   </a>
 </p>
