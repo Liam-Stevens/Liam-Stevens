@@ -32,6 +32,6 @@
 </p>
 <p>
   <a href="https://github.com/Liam-Stevens/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liam-Stevens&langs_count=8&hide_border=true&layout=compact&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liam-Stevens&count_private=true&langs_count=8&hide_border=true&layout=compact&theme=tokyonight" />
   </a>
 </p>
