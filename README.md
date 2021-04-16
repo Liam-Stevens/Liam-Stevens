@@ -2,7 +2,7 @@
 <p align="left">
   I am a final year Software Engineering student at The University of Adelaide.
   
-  I passionate about programming in low-level languages, such as C and C++. However in web development, I have primarily used Ruby-on-Rails with MySQL for web development and database management.
+  I passionate about programming in low-level languages, such as C and C++. In addition, I have primarily used Ruby-on-Rails with MySQL for web development and database management.
 </p>
 
 <h3 align="left">Tools & Technologies:</h3>
