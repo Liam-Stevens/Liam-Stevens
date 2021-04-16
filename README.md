@@ -1,6 +1,8 @@
-<h2 align="left">Hi 👋, I'm Liam Stevens</h2>
+<h2 align="left">Hello, I'm Liam Stevens</h2>
 <p align="left">
   I am a final year Software Engineering student at The University of Adelaide.
+  
+  I passionate about programming in low-level languages, such as C and C++. However in web development, I have primarily used Ruby-on-Rails with MySQL for web development and database management.
 </p>
 
 <h3 align="left">Tools & Technologies:</h3>
